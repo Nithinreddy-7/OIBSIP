@@ -47,10 +47,6 @@ The report includes **Mermaid diagrams** (render natively in GitHub's markdown v
 
 Open `network_security_threats_report.md` directly on GitHub — diagrams, tables, and alert callouts are all rendered natively in GitHub's markdown viewer, no additional setup required.
 
-## 🎥 Demo Video
-
-Not required for this task.
-
 ## 👤 Author
 
 **Emmadi Nithin Reddy**
