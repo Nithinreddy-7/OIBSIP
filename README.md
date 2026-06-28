@@ -29,9 +29,11 @@ Rather than isolated assignments, this repository is architected as a **Full-Lif
 | Phase | Module | Objective | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | [Task 1: Basic Network Scanning with Nmap](./Task-1-Nmap) | Automated footprinting and vulnerability profiling of a target asset. | ✅ **Completed** |
-| **02** | [Task 8: Network Traffic Analysis](./Task-8-Wireshark) | Sniffing cleartext protocols and analyzing packet captures. | ✅ **Completed** |
-| **03** | [Task 2: Firewall Configuration using UFW](./Task-2-UFW) | Implementing zero-trust ACLs to secure discovered vulnerabilities. | ✅ **Completed**|
-| **04** | [Task 10: Network Security Assessment Report](./Task-10-Network-Security-Assessment) | Aggregating raw telemetry into an executive threat matrix. | ⏳ *Pending* |
+| **02** | [Task 2: Firewall Configuration using UFW](./Task-2-UFW) | Implementing zero-trust ACLs to secure discovered vulnerabilities. | ✅ **Completed**|
+| **03** | [Task 4: Network Security Threats Report](./Task-4) | Research Report on Common Network Security Threats | ✅ **Completed**|
+| **04** | [Task 5: Report on Social Engineering Attacks ](./Task-5) |Detailed report on social engineering attacks such as phishing, pretexting, and baiting.| ✅ **Completed**|
+| **06** | [Task 8: Network Traffic Analysis](./Task-8-Wireshark) | Sniffing cleartext protocols and analyzing packet captures. | ✅ **Completed** |
+| **07** | [Task 10: Network Security Assessment Report](./Task-10-Network-Security-Assessment) | Aggregating raw telemetry into an executive threat matrix. | ⏳ *Pending* |
 
 ---
 
