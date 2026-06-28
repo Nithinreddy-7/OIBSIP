@@ -88,5 +88,7 @@ Task-8-Wireshark-Traffic-Analysis/
     ├── capture.png
     ├── http-filter.png
     └── packet-analysis.png
+
+
 🏁 Conclusion
 This project successfully demonstrated the practical application of capturing and analyzing HTTP network traffic. By examining cleartext HTTP requests and server responses, I established a firmer understanding of network packet analysis, client-server communication, and core HTTP protocol behavior. Wireshark proved to be an invaluable tool for network monitoring, troubleshooting, and foundational cybersecurity analysis.
