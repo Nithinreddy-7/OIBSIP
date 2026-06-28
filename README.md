@@ -29,8 +29,8 @@ Rather than isolated assignments, this repository is architected as a **Full-Lif
 | Phase | Module | Objective | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | [Task 1: Basic Network Scanning with Nmap](./Task-1-Nmap) | Automated footprinting and vulnerability profiling of a target asset. | ✅ **Completed** |
-| **02** | [Task 8: Network Traffic Analysis](./Task-8-Wireshark) | Sniffing cleartext protocols and analyzing packet captures. | ⏳ *Pending* |
-| **03** | [Task 2: Firewall Configuration using UFW](./Task-2-UFW) | Implementing zero-trust ACLs to secure discovered vulnerabilities. | 🚧 *In Progress* |
+| **02** | [Task 8: Network Traffic Analysis](./Task-8-Wireshark) | Sniffing cleartext protocols and analyzing packet captures. | ✅ **Completed** |
+| **03** | [Task 2: Firewall Configuration using UFW](./Task-2-UFW) | Implementing zero-trust ACLs to secure discovered vulnerabilities. | ✅ **Completed**|
 | **04** | [Task 10: Network Security Assessment Report](./Task-10-Network-Security-Assessment) | Aggregating raw telemetry into an executive threat matrix. | ⏳ *Pending* |
 
 ---
