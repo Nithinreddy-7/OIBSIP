@@ -51,15 +51,47 @@ Rather than isolated assignments, this repository is architected as a **Full-Lif
 
 ```text
 OIBSIP/
-├── README.md
 ├── Task-1-Nmap/
+│   ├── results/
+│   │   ├── advanced_nmap_scan.txt
+│   │   └── basic_nmap_result.txt
+│   ├── screenshots/
+│   │   ├── 01_basic_nmap_scan.png
+│   │   ├── 02_advance-nmap-scan.png
+│   │   ├── 03_advance_scan.png
+│   │   └── 04_advance_scan.png
 │   ├── EmmadiNithinReddy_Task1.sh
 │   ├── README.md
-│   └── results/
+│   └── notes.md
 ├── Task-2-UFW/
+│   ├── screenshots/
+│   │   ├── ss1_ufw.png
+│   │   ├── ss2_ufw.png
+│   │   └── ufw_output.png
 │   ├── EmmadiNithinReddy_Task2.sh
-│   └── README.md
+│   ├── README.md
+│   ├── notes.md
+│   └── ufw_status.txt
+├── Task-4-Network-Security-Threats/
+│   ├── README.md
+│   └── network_security_threats_report.md
+├── Task-5-Research Report on Social.../
+│   ├── README.md
+│   └── social_engineering_report.md
+├── Task-6- Research Report on the I.../
+│   └── patch_management_report.md
 ├── Task-8-Wireshark/
-│   └── README.md
-└── Task-10-Network-Security-Assessment/
-    └── README.md
+│   ├── screenshots/
+│   │   ├── capture.png
+│   │   ├── http-filter.png
+│   │   └── packet-analysis.png
+│   ├── EmmadiNithinReddy_Task8.pcap
+│   ├── README.md
+│   └── analysis.md
+├── Task-10-Network-Security-Assessment/
+│   ├── network_security_assessment.md
+│   ├── nmap_scan_results.txt
+│   └── wireshark_capture.pcap
+├── .gitignore
+├── LICENSE
+└── README.md
