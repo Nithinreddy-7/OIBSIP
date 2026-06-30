@@ -34,7 +34,7 @@ Rather than isolated assignments, this repository is architected as a **Full-Lif
 | **04** | [Task 5: Report on Social Engineering Attacks ](./Task-5) |Detailed report on social engineering attacks such as phishing, pretexting, and baiting.| ✅ **Completed**|
 | **05** | [Task 5: Report on the Importance of Patch Management](./Task-6) | report explaining the significance of patch management in cybersecurity. | ✅ **Completed**|
 | **06** | [Task 8: Network Traffic Analysis](./Task-8-Wireshark) | Sniffing cleartext protocols and analyzing packet captures. | ✅ **Completed** |
-| **07** | [Task 10: Network Security Assessment Report](./Task-10-Network-Security-Assessment) | Aggregating raw telemetry into an executive threat matrix. | ⏳ *Pending* |
+| **07** | [Task 10: Network Security Assessment Report](./Task-10-Network-Security-Assessment) | Aggregating raw telemetry into an executive threat matrix. | ✅ **Completed** |
 
 ---
 
